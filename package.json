@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "Proyecto de CI/CD con GitHub Actions y Vercel",
+  "main": "script.js",
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
